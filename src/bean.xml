@@ -6,7 +6,7 @@
   
   	<bean id="person" class="com.mn.test.person.Person">
   		<property name="name" value="maning"></property>
-  		<property name="age" value="28"></property>
+  		<property name="age" value="22"></property>
   	</bean>
       
   </beans>
